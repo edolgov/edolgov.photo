@@ -93,8 +93,8 @@ input::-webkit-inner-spin-button {
 #main-menu-toggle.close .line:after {top:0;transform:rotate(45deg);-moz-transform:rotate(45deg);-webkit-transform:rotate(45deg);}
 #main-menu-toggle.close .main-menu-lines {transform:rotate(180deg);-moz-transform:rotate(180deg);-webkit-transform:rotate(180deg);}
 
-body.admin-bar #main-menu-toggle {top:72px;}
-body.admin-bar #main-menu-toggle .main-menu-lines {top:77px;}
+body.admin-bar #main-menu-toggle {top:57px;}
+body.admin-bar #main-menu-toggle .main-menu-lines {top:62px;}
 body.admin-bar #container {top:32px;height:auto;bottom:0;}
 
 #main-menu {position:fixed;width:100%;top:0;bottom:0;z-index:8;visibility:hidden;opacity:0;background-color:#353535;}
@@ -950,7 +950,7 @@ mark, ins {background-color:transparent;}
 
 /* music player */
 #bmplayer-container {z-index:10;background-color:transparent!important;top:80px;left:35px;padding:0;width:55px;height:70px;border-radius:0;overflow:visible;}
-body.admin-bar #bmplayer-container {top:112px;}
+body.admin-bar #bmplayer-container {top:95px;}
 .bmplayer-container .bmplayer-container-content {width:55px!important;overflow:visible;}
 #bmplayer-container .bmplayer-controls-primary {position:relative;left:5px;background-color:rgba(0,0,0,0.2);width:50px;height:50px;border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;}
 #bmplayer-container .bmplayer-controls-primary .fa {font-size:20px;position:relative;top:0;left:0;padding:16px 28px 16px 20px;border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;overflow:hidden;cursor:pointer;text-align:center;z-index:1;}
